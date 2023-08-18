@@ -1,0 +1,24 @@
+import Head from "next/head";
+
+import { Dashboard } from "../../components/affiliates/dashboard/Dashboard";
+import type { MyPage } from "../../components/common/types";
+import { i18nGetServerSideProps } from "@/utils/i18n-ssr";
+
+export const getServerSideProps = i18nGetServerSideProps(["affiliate"]);
+
+const DashboardPage: MyPage = () => {
+  return (
+    <>
+      <Head>
+        <title>Affiliates Dashboard</title>
+        <meta name="description" content="Affiliates Dashboard" />
+        {/* <link rel="icon" href="/favicon.ico" /> */}
+      </Head>
+      <Dashboard />
+    </>
+  );
+};
+
+export default DashboardPage;
+
+DashboardPage.Layout = "Affiliates";

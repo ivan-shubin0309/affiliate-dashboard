@@ -1,0 +1,492 @@
+{
+  "Search": "Search",
+  "name": {
+    "label": "Profile Name"
+  },
+  "url": {
+    "label": "URL"
+  },
+  "description": {
+    "label": "Description"
+  },
+  "source_traffic": {
+    "label": "Traffic Source"
+  },
+  "valid": {
+    "label": "Available"
+  },
+  "username": {
+    "label": "Username"
+  },
+  "password": {
+    "label": "Password"
+  },
+  "subject": {
+    "label": "Ticket Subject"
+  },
+  "reply_email": {
+    "label": "Your Email"
+  },
+  "text": {
+    "label": "Ticket Content"
+  },
+  "merchant_id": {
+    "label": "Select Merchants"
+  },
+  "type": {
+    "choices": {
+      "0": "lead",
+      "1": "account",
+      "2": "sale",
+      "3": "qftd"
+    },
+    "label": "Type"
+  },
+  "all_creative": {
+    "label": "All Creative"
+  },
+  "banner_id": {
+    "label": "Creative"
+  },
+  "pixelCode": {
+    "label": "Pixel Code"
+  },
+  "method": {
+    "choices": {
+      "0": "post",
+      "1": "get",
+      "2": "client"
+    },
+    "label": "Method"
+  },
+  "newsletter": {
+    "label": "Yes, I would like to receive the Affiliate newsletter"
+  },
+  "company": {
+    "label": "Company Name"
+  },
+  "gender": {
+    "choices": {
+      "male": "Mr.",
+      "female": "Ms."
+    },
+    "label": "Salutation"
+  },
+  "first_name": {
+    "label": "First Name"
+  },
+  "last_name": {
+    "label": "Last Name"
+  },
+  "mail": {
+    "label": "Email"
+  },
+  "phone": {
+    "label": "Phone Number"
+  },
+  "IMUserType": {
+    "label": "Instant Message Type",
+    "placeholder": "Choose IM Type"
+  },
+  "IMUser": {
+    "label": "Instant Message Account"
+  },
+  "street": {
+    "label": "Street"
+  },
+  "postalCode": {
+    "label": "Postal / Zip Code"
+  },
+  "city": {
+    "label": "City"
+  },
+  "country": {
+    "label": "Country"
+  },
+  "website": {
+    "label": "WebSite 1"
+  },
+  "website2": {
+    "label": "WebSite 2"
+  },
+  "website3": {
+    "label": "WebSite 3"
+  },
+  "paymentMethod": {
+    "choices": {
+      "bank": "Wire Transfer",
+      "skrill": "Skrill",
+      "paypal": "Paypal",
+      "neteller": "Neteller",
+      "webmoney": "WebMoney",
+      "chinaunionpay": "China Union Pay"
+    },
+    "label": "Payment Method"
+  },
+  "pay_firstname": {
+    "label": "First Name"
+  },
+  "pay_lastname": {
+    "label": "Last Name"
+  },
+  "pay_address1": {
+    "label": "Address 1"
+  },
+  "pay_address2": {
+    "label": "Address 2"
+  },
+  "pay_city": {
+    "label": "City"
+  },
+  "pay_zip": {
+    "label": "Zip Code"
+  },
+  "pay_country": {
+    "label": "Country"
+  },
+  "preferredCurrency": {
+    "label": "Preferred Currency"
+  },
+  "pay_info": {
+    "label": "More Information"
+  },
+  "pay_email": {
+    "label": "Payment Email"
+  },
+  "pay_account": {
+    "label": "Account"
+  },
+  "pay_bank": {
+    "label": "Bank Name"
+  },
+  "pay_iban": {
+    "label": "IBAN"
+  },
+  "pay_branch": {
+    "label": "Branch"
+  },
+  "pay_swift": {
+    "label": "Swift"
+  },
+  "account_name": {
+    "label": "Account Name"
+  },
+  "account_number": {
+    "label": "Account Number"
+  },
+  "documentType": {
+    "choices": {
+      "Passport_Driving_Licence": "Passport/Driving Licence",
+      "Address_Verification": "Address Verification",
+      "Company_Verification": "Company Verification"
+    },
+    "label": "Document Type",
+    "placeholder": "Select a Document Type"
+  },
+  "documentFile": {
+    "label": "Document File"
+  },
+  "menu": {
+    "dashboard": "Dashboard",
+    "marketing_tools": {
+      "name": "Marketing Tools",
+      "items": {
+        "creative_materials": "Creative Materials",
+        "sub_affiliates_creatives": "Sub Affiliates Creatives"
+      }
+    },
+    "reports": {
+      "name": "Reports",
+      "items": {
+        "quick_summary_report": "Quick Summary Report",
+        "commission_report": "Commission Report",
+        "clicks_report": "Clicks Report",
+        "creative_report": "Creative Report",
+        "country_report": "Country Report",
+        "landing_page_report": "Landing Page Report",
+        "users_report": "Users Report",
+        "pixels_logs_report": "Pixels Logs Report",
+        "install_report": "Install Report",
+        "profile_report": "Profile Report",
+        "sub_affiliates_report": "Sub Affiliates Report",
+        "fake_report_server_(debug)": "Fake Report Server (Debug)"
+      }
+    },
+    "profiles": "Profiles",
+    "my_account": {
+      "name": "My Account",
+      "items": {
+        "account_details": "Account Details",
+        "payment_method_details": "Payment Method Details",
+        "commission_structure": "Commission Structure",
+        "documents": "Documents"
+      }
+    },
+    "billings": "Billings",
+    "pixel_monitor": "Pixel Monitor",
+    "support": "Support",
+    "announcements": "Announcements",
+    "privacy_policy": "Privacy policy",
+    "terms_&_conditions": "Terms & Conditions"
+  },
+  "country_report": {
+    "country": "Country",
+    "views": "Views",
+    "clicks": "Clicks",
+    "cpi": "CPI",
+    "merchant": "Merchant",
+    "volume": "Volume",
+    "withdrawal": "Withdrawal",
+    "leads": "Leads",
+    "demo": "Demo",
+    "account": "Account",
+    "depositing_accounts": "Depositing Accounts",
+    "real_ftd": "Real FTD",
+    "ftd": "FTD",
+    "ftd_amount": "FTD Amount",
+    "sum_deposits": "Sum Deposits",
+    "bonus": "Bonus",
+    "chargeback": "Chargeback",
+    "net_revenue": "Net Revenue",
+    "pnl": "PnL",
+    "total_commission": "Total Commission",
+    "qftd": "QFTD"
+  },
+  "fake_translation_report": {
+    "id": "ID",
+    "date": "Date",
+    "source": "Source",
+    "lang_eng": "Lang ENG",
+    "lang_rus": "Lang RUS",
+    "lang_ger": "Lang GER",
+    "lang_fra": "Lang FRA",
+    "lang_ita": "Lang ITA",
+    "lang_esp": "Lang ESP",
+    "lang_heb": "Lang HEB",
+    "lang_ara": "Lang ARA",
+    "lang_chi": "Lang CHI",
+    "lang_por": "Lang POR",
+    "lang_jap": "Lang JAP"
+  },
+  "dashboard": {
+    "cards": {
+      "impressions": "Impressions",
+      "clicks": "Clicks",
+      "install": "Install",
+      "leads": "Leads",
+      "demo": "Demo",
+      "realaccount": "Real Account",
+      "ftd": "FTD",
+      "withdrawal": "Withdrawal",
+      "chargeback": "Chargeback",
+      "activetrader": "Active Trader",
+      "commission": "Commission",
+      "netdeposit": "Deposit"
+    }
+  },
+  "lang": {
+    "label": "Language"
+  },
+  "landing_page_report": {
+    "url": "URL",
+    "merchant": "Merchant",
+    "impressions": "Impressions",
+    "clicks": "Clicks",
+    "installation": "Installation",
+    "click_through_ratio_(ctr)": "Click Through Ratio (CTR)",
+    "click_to_account": "Click to Account",
+    "click_to_sale": "Click to Sale",
+    "epc": "EPC",
+    "leads": "Leads",
+    "demo": "Demo",
+    "accounts": "Accounts",
+    "ftd": "FTD",
+    "volume": "Volume",
+    "chargeback_amount": "ChargeBack Amount",
+    "active_traders": "Active Traders"
+  },
+  "pixel_log_report": {
+    "pixel_fire_id": "Pixel Fire ID",
+    "date": "Date",
+    "type": "Type",
+    "method": "Method",
+    "fired_url": "Fired URL",
+    "response": "Response",
+    "all_time_fired": "All Time Fired",
+    "pixel_state": "Pixel State",
+    "affiliate_id": "Affiliate ID",
+    "affiliate_username": "Affiliate Username",
+    "merchant_id": "Merchant ID",
+    "merchant": "Merchant",
+    "product_id": "Product ID",
+    "banner_id": "Banner ID",
+    "group_id": "Group ID"
+  },
+  "users_report": {
+    "trader_id": "Trader ID",
+    "registration_date": "Registration Date",
+    "trader_status": "Trader Status",
+    "country": "Country",
+    "affiliate_id": "Affiliate ID",
+    "affiliate_username": "Affiliate Username",
+    "merchant_id": "Merchant ID",
+    "merchant_name": "Merchant Name",
+    "creative_id": "Creative ID",
+    "creative_name": "Creative Name",
+    "type": "Type",
+    "creative_language": "Creative Language",
+    "profile_id": "Profile ID",
+    "profile_name": "Profile Name",
+    "param": "Param",
+    "param2": "Param2",
+    "param3": "Param3",
+    "param4": "Param4",
+    "param5": "Param5",
+    "first_deposit": "First Deposit",
+    "volume": "Volume",
+    "withdrawal_amount": "Withdrawal Amount",
+    "chargeback_amount": "ChargeBack Amount",
+    "sale_status": "Sale Status"
+  },
+  "install_report": {
+    "event_type": "Event Type",
+    "event_date": "Event Date",
+    "trader_id": "Trader ID",
+    "trader_alias": "Trader Alias",
+    "trader_status": "Trader Status",
+    "country": "Country",
+    "affiliate_id": "Affiliate ID",
+    "affiliate_username": "Affiliate Username",
+    "merchant_id": "Merchant ID",
+    "merchant_name": "Merchant Name",
+    "creative_id": "Creative ID",
+    "creative_name": "Creative Name"
+  },
+  "profile_report": {
+    "profile_id": "Profile ID",
+    "profile_name": "Profile Name",
+    "profile_url": "Profile URL",
+    "impressions": "Impressions",
+    "clicks": "Clicks",
+    "installation": "Installation",
+    "click_through_ratio_(ctr)": "Click Through Ratio (CTR)",
+    "click_to_account": "Click to Account",
+    "click_to_sale": "Click to Sale",
+    "epc": "EPC",
+    "lead": "Lead",
+    "demo": "Demo",
+    "accounts": "Accounts",
+    "ftd": "FTD",
+    "withdrawal_amount": "Withdrawal Amount",
+    "chargeback_amount": "ChargeBack Amount",
+    "volume": "Volume",
+    "group": "Group",
+    "installations": "Installations"
+  },
+  "clicks_report": {
+    "affiliate_id": "Affiliate ID",
+    "affiliate_username": "Affiliate Username",
+    "tier_level": "Tier Level",
+    "clicks": "Clicks",
+    "installation": "Installation",
+    "leads": "Leads",
+    "demo": "Demo",
+    "accounts": "Accounts",
+    "volume": "Volume",
+    "withdrawal_amount": "Withdrawal Amount",
+    "chargeback_amount": "ChargeBack Amount",
+    "id": "ID",
+    "uid": "UID",
+    "impression": "Impression",
+    "click": "Click",
+    "date": "Date",
+    "type": "Type",
+    "merchant": "Merchant",
+    "banner_id": "Banner ID",
+    "profile_id": "Profile ID",
+    "profile_name": "Profile Name",
+    "param": "Param",
+    "param_2": "Param 2",
+    "refer_url": "Refer URL",
+    "country": "Country",
+    "ip": "IP",
+    "platform": "Platform",
+    "operating_system": "Operating System",
+    "os_version": "OS Version",
+    "browser": "Browser",
+    "browser_version": "Browser Version",
+    "trader_id": "Trader ID",
+    "trader_alias": "Trader Alias",
+    "lead": "Lead",
+    "sales_status": "Sales Status",
+    "ftd": "FTD",
+    "active_traders": "Active Traders"
+  },
+  "creative_report": {
+    "creative_id": "Creative ID",
+    "creative_name": "Creative Name",
+    "merchant": "Merchant",
+    "type": "Type",
+    "impressions": "Impressions",
+    "clicks": "Clicks",
+    "installation": "Installation",
+    "click_through_ratio_(ctr)": "Click Through Ratio (CTR)",
+    "click_to_account": "Click to Account",
+    "click_to_sale": "Click to Sale",
+    "leads": "Leads",
+    "demo": "Demo",
+    "accounts": "Accounts",
+    "ftd": "FTD",
+    "volume": "Volume",
+    "withdrawal_amount": "Withdrawal Amount",
+    "chargeback_amount": "ChargeBack Amount"
+  },
+  "quick_summary_report": {
+    "merchant": "Merchant",
+    "impressions": "Impressions",
+    "clicks": "Clicks",
+    "installation": "Installation",
+    "leads": "Leads",
+    "demo": "Demo",
+    "accounts": "Accounts",
+    "ftd": "FTD",
+    "withdrawal_amount": "Withdrawal Amount",
+    "chargeback_amount": "ChargeBack Amount",
+    "active_traders": "Active Traders",
+    "commission": "Commission",
+    "click_through_ratio(ctr)": "Click Through Ratio(CTR)",
+    "click_to_account": "Click to Account",
+    "click_to_sale": "Click to Sale",
+    "volume": "Volume",
+    "merchant_name": "Merchant Name",
+    "merchant_id": "Merchant ID",
+    "trader_id": "Trader ID",
+    "transaction_id": "Transaction ID",
+    "type": "Type",
+    "amount": "Amount",
+    "location": "Location"
+  },
+  "commission_report": {
+    "merchant_name": "Merchant Name",
+    "merchant_id": "Merchant ID",
+    "trader_id": "Trader ID",
+    "transaction_id": "Transaction ID",
+    "type": "Type",
+    "amount": "Amount",
+    "location": "Location",
+    "commission": "Commission"
+  },
+  "sub_affiliate_report": {
+    "affiliate_id": "Affiliate ID",
+    "affiliate_username": "Affiliate Username",
+    "tier_level": "Tier Level",
+    "clicks": "Clicks",
+    "installation": "Installation",
+    "leads": "Leads",
+    "demo": "Demo",
+    "accounts": "Accounts",
+    "volume": "Volume",
+    "withdrawal_amount": "Withdrawal Amount",
+    "chargeback_amount": "ChargeBack Amount"
+  }
+}
